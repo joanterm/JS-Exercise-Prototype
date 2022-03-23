@@ -116,10 +116,10 @@ console.log(babyOne.favoriteToy)
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. it defaults to the window unless you haven't defined it at all, then it will return undefined
+  2. it can refer to a global object
+  3. it can be used in a function context
+  4. it can be used in classes
 */
 
 
